@@ -1,5 +1,7 @@
 # Análise Exploratória de Série Histórica de Vazão
+
  -> o script foi escrito em 2021
+ 
  -> Início dos estudos de R, Estatística e Hidrologia
  
 O script fez parte dos dados analisados na dissertação de mestrado em ciência e tecnologia ambiental. Como dados de entradas foram utilizados dados da Agência Nacional das Águas e do Operador Nacional de Serviços Elétricos.
